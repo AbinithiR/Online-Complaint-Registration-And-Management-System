@@ -11,10 +11,7 @@ A full-stack web application designed to streamline the complaint registration a
 2. [Features](#features)
 3. [Technology Stack](#technology-stack)
 4. [System Architecture](#system-architecture)
-5. [Setup and Installation](#setup-and-installation)
-6. [Usage](#usage)
-7. [Contributing](#contributing)
-8. [License](#license)
+
 
 ---
 
@@ -67,13 +64,4 @@ The Online Complaint Registration and Management System digitizes the process of
 
 ---
 
-## Setup and Installation
-### Prerequisites
-1. [Node.js and npm](https://nodejs.org/)
-2. [MongoDB](https://www.mongodb.com/)
-3. [Git](https://git-scm.com/)
 
-### Steps to Run Locally
-1. Clone the Repository:
-   ```bash
-   git clone https://github.com/awdhesh-student/complaint-registery.git
